@@ -1,0 +1,6 @@
+/* Appirater 简体中文 */
+kAppiraterMessageKey = "如果你喜欢《%@》,可否花少许时间为我们作出评分？谢谢你的支持！\n\n";
+kAppiraterTitleKey = "为《%@》作评分";
+kAppiraterNoTextKey = "不用, 谢谢";
+kAppiraterYesTextKey = "好的, 为《%@》作评分";
+kAppiraterReminderTextKey = "请迟些时候再提醒我";
