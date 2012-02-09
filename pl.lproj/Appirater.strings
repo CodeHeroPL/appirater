@@ -1,0 +1,6 @@
+/* Appirater Polish */
+kAppiraterMessageKey = "Jeśli jesteś zadowolony z użytkowania %@, czy poświeciłbyś chwilę na ocene aplikacji? Z góry dziekujemy!\n\n";
+kAppiraterTitleKey = "Oceń %@";
+kAppiraterNoTextKey = "Nie, dziekuję";
+kAppiraterYesTextKey = "Tak, ocenię %@";
+kAppiraterReminderTextKey = "Przypomnij mi później";
